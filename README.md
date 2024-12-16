@@ -2,7 +2,7 @@
 # IoT 2024 - Lab 8
 
 * Team N:
-* Student N1 (id, surname, name):
+* Student N1 (SE14161, Muzaffarov, Maxmudbek):
 * Student N2 (id, surname, name):
 * Student N3 (id, surname, name):
 * Student N4 (id, surname, name):
