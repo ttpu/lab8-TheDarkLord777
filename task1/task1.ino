@@ -1,4 +1,4 @@
-#include <BlynkSimpleEsp32.h>  // Include Blynk library for ESP32
+//#include <BlynkSimpleEsp32.h>  // Include Blynk library for ESP32
 //#include <Servo.h>             // Include Servo library
 
 // Replace with your own Blynk Template ID and Auth Token
@@ -6,6 +6,11 @@
 #define BLYNK_TEMPLATE_ID "TMPL6n-RGOiXi"   // Replace with your template ID
 #define BLYNK_TEMPLATE_NAME "Something"  // Replace with your template name
 #define BLYNK_AUTH_TOKEN "fqebtyflCuDVnO29HtB26Z1mm-xABW1C"  // Replace with your authentication token
+
+#include <WiFi.h>
+#include <WiFiClient.h>
+#include <BlynkSimpleEsp32.h>
+
 
 // Wi-Fi credentials
 const char *ssid = "Redmi 110A";        // Replace with your Wi-Fi SSID
@@ -81,4 +86,3 @@ BLYNK_WRITE(V6) {
 void loop() {
   Blynk.run();  // Run Blynk's internal code to maintain communication with the app
 }
-
