@@ -1,10 +1,11 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/zwbwvhFk)
 # IoT 2024 - Lab 8
 
 * Team N:
-* Student N1 (id, surname, name):
-* Student N2 (id, surname, name):
-* Student N3 (id, surname, name):
-* Student N4 (id, surname, name):
+* Student N1 (SE14161, Muzaffarov, Maxmudbek):
+* Student N2 (SE14335, Isokhonov, Yunus):
+* Student N3 (SE13984, Normamatov, Jamoliddin):
+* Student N4 (SE14338, Abdukhamidov, Abdurashid):
 
 ![image](https://github.com/user-attachments/assets/289ba734-3c1b-4724-85f6-130862a8d71d)
 
